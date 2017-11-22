@@ -1,0 +1,12 @@
+{% extends template.self %}
+
+{% block search_input %}
+<div class="book-logo">
+    {% if config.customConfig.logo %}
+    <img src="{{ config.customConfig.logo }}"/>
+    {% endif %}
+</div>
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="{{ 'SEARCH_PLACEHOLDER'|t }}" />
+</div>
+{% endblock %}

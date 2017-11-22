@@ -1,0 +1,12 @@
+/*#book-search-input>input::placeholder{
+    color: #04e6ba;
+}
+*/
+.book-logo {
+    padding: 15px 10px;
+    text-align: center;
+}
+
+.book-logo img {
+    max-height: 30px;
+}

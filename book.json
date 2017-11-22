@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "-lunr", "-search", "search-pro",
+        "-highlight", "prism",
+        "codepen",
+        "jsbin"
+    ],
+    "variables": {},
+    "customConfig": {
+        "logo": "/images/logo.png",
+        "favicon": "/images/favicon.png"
+    }
+}

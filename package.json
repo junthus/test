@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-test",
+  "version": "0.1.0",
+  "description": "gitbook test",
+  "main": "",
+  "dependencies": {
+    "gitbook-plugin-codepen": "^0.1.2",
+    "gitbook-plugin-jsbin": "0.0.12",
+    "gitbook-plugin-prism": "^2.3.0",
+    "gitbook-plugin-search-pro": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junthus/test.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/junthus/test/issues"
+  },
+  "homepage": "https://github.com/junthus/test#readme"
+}
