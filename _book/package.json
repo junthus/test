@@ -1,7 +1,7 @@
 {
   "name": "gitbook-test",
-  "version": "1.0.0",
-  "description": "뀨",
+  "version": "0.1.0",
+  "description": "gitbook test",
   "main": "",
   "dependencies": {
     "gitbook-plugin-codepen": "^0.1.2",
@@ -11,14 +11,15 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "push": "gitbook build && git add ./ && git commit -m '.' && git push -f origin master",
+    "server": "gitbook serve"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/junthus/test.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
     "url": "https://github.com/junthus/test/issues"
   },
