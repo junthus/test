@@ -2,12 +2,18 @@
     "plugins": [
         "-lunr", "-search", "search-pro",
         "-highlight", "prism",
-        "codepen",
-        "jsbin"
+        "jsbin",
+        "favicon"
     ],
     "variables": {},
+    "pluginsConfig": {
+        "favicon":{
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico",
+            "appleTouch": "assets/touch.jpg"
+        }
+    },
     "customConfig": {
-        "logo": "/images/logo.png",
-        "favicon": "/images/favicon.png"
+        "logo": "/assets/logo.png"
     }
 }

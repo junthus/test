@@ -32,7 +32,7 @@ $ npm install gitbook-cli -g
 # 어또케 호스팅 ?
 * 깃헙 계정 + repo 필요 (org에 문서를 호스팅하려는 경우 그 계정으로 로긴해야 한다.)
 * https://www.gitbook.com/ 접속, 깃헙 계정으로 로긴하면 이메일로 컨펌이 온다. 그걸 누르면 아래 페이지로 감.
-![설정페이지](static/img/gb_setting_github.png)
+![설정페이지](assets/img/gb_setting_github.png)
 * Integration - 버튼 클릭 > 깃북용 리포 선택 > install gitbook
 * Account - 깃헙 계정 연동
 * 위의 두 가지를 하고 나면 Books 메뉴에 create 메뉴가 생김. 
