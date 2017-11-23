@@ -45,8 +45,7 @@ $ npm install gitbook-cli -g
     * 이 gitbook에 설치해본거
         * search-pro - 검색 highlight
         * prism - syntax highlight
-        * codepen - 무료라 혹했는데 플러긴이 바보 되어있음 ㅠㅠ
-        * jsbin - pro 계정 필요
+        * jsbin - pro 계정 필요 (codepen 도 있는데 플러긴이 바보 되어있음 ㅠㅠ)
         <a class="jsbin-embed" href="https://jsbin.com/tayevipusi/embed?html,js,output">JS Bin on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?4.1.1"></script>
         * 테마도 플러긴으로 바꿔볼까 했는데 아직 테마 마켓은 성숙하지 않은듯...
 

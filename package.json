@@ -4,7 +4,6 @@
   "description": "gitbook test",
   "main": "",
   "dependencies": {
-    "gitbook-plugin-codepen": "^0.1.2",
     "gitbook-plugin-jsbin": "0.0.12",
     "gitbook-plugin-prism": "^2.3.0",
     "gitbook-plugin-search-pro": "^2.0.2",
