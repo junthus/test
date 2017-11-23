@@ -58,5 +58,6 @@ $ npm install gitbook-cli -g
 * 양 많아지면 걍 플러그인 행이 나을듯.
 
 # See More
+* [gitbook FAQ](https://help.gitbook.com/)
 * [gitbook toolchain doc](https://www.gitbook.com/book/gitbookio/docs-toolchain/details)
 
