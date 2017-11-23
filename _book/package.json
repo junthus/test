@@ -7,9 +7,11 @@
     "gitbook-plugin-codepen": "^0.1.2",
     "gitbook-plugin-jsbin": "0.0.12",
     "gitbook-plugin-prism": "^2.3.0",
-    "gitbook-plugin-search-pro": "^2.0.2"
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-favicon": "0.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+  },
   "scripts": {
     "push": "gitbook build && git add ./ && git commit -m '.' && git push -f origin master",
     "server": "gitbook serve"
